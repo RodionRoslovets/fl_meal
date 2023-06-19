@@ -6,7 +6,7 @@ import './models/category.dart';
 const CATEGORIES = [
   Category(
     id: 'c1',
-    title: 'Italian',
+    title: 'Italian1',
     color: Colors.purple,
   ),
   Category(
