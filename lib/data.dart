@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:third/models/meal.dart';
+import './models/meal.dart';
 
 import './models/category.dart';
 
 const CATEGORIES = [
   Category(
     id: 'c1',
-    title: 'Italian1',
+    title: 'Italian',
     color: Colors.purple,
   ),
   Category(
